@@ -55,7 +55,17 @@ li{
   color: var(--whiteColor);
   font-weight: 500;
 }
+.btn:hover{
+  background-color: var(--secondaryColor);
+}
+img,video{
+  width:100%;
+  height:auto;
 
+}
+input{
+  font-size: 100%;
+}
 
 
 body{
