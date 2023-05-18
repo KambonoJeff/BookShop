@@ -3,7 +3,7 @@ import './navbar.css'
 const Navbar = () => {
   return (
     <div className='test'>
-      <h1>eifgweifw</h1>
+      <h1>Navbar</h1>
     </div>
   )
 }
